@@ -16,6 +16,7 @@ Quick-Fix helps to connect people with broken, repairable items with those who h
 ### Executing program
 
 The application can be compiled and run using Android studio.
+
 The software uses Android API 24 and will be compatible with systems running Android 7.0.0+
 
 
