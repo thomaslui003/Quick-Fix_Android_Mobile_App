@@ -10,7 +10,7 @@ Quick-Fix helps to connect people with broken, repairable items with those who h
 
 
 <img src="https://github.com/thomaslui003/Quick-fix/raw/main/layout1.png" width="807" height="524">
-<img src="https://github.com/thomaslui003/Quick-fix/raw/main/layout2.png" width="996" height="555">
+<img src="https://github.com/thomaslui003/Quick-fix/raw/main/layout2.png" width="853" height="476">
 
 
 ### Executing program
