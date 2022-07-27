@@ -1,0 +1,4 @@
+rootProject.name = "Quick-Fix"
+include ':app'
+include ':quickfixapi'
+include ':volleyservice'
