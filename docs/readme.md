@@ -45,5 +45,5 @@ $ python demo.py
 ```
 
 Image/Trimap | Output/GT | New BG/Compose | 
-|---|---|---|
+
 |![image](https://github.com/foamliu/Deep-Image-Matting/raw/master/images/0_image.png)  | ![image](https://github.com/foamliu/Deep-Image-Matting/raw/master/images/0_out.png)   | ![image](https://github.com/foamliu/Deep-Image-Matting/raw/master/images/0_new_bg.png) |
