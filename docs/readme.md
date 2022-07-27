@@ -12,11 +12,11 @@ Quick-Fix helps to connect people with broken, repairable items with those who h
 
 ### Executing program
 
-The application can be run using Android studio.
+The application can be compiled and run using Android studio.
 
 styleguide: https://google.github.io/styleguide/javaguide.html
 
 
 Image/Trimap | Output/GT | New BG/Compose | 
 
-|![image](https://github.com/foamliu/Deep-Image-Matting/raw/master/images/0_image.png)  | ![image](https://github.com/foamliu/Deep-Image-Matting/raw/master/images/0_out.png)   | ![image](https://github.com/foamliu/Deep-Image-Matting/raw/master/images/0_new_bg.png) |
+![image](https://github.com/thomaslui003/Quick-fix/raw/main/layout1.png)
