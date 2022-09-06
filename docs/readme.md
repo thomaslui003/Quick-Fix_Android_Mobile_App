@@ -13,7 +13,7 @@ Quick-Fix helps to connect students with broken, repairable items with those who
 <img src="https://github.com/thomaslui003/Quick-fix/raw/main/layout2.png" width="853" height="476">
 
 
-### Executing program
+### Executing the program
 
 The application can be compiled and run using Android studio.
 
