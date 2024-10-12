@@ -1,7 +1,7 @@
 
 # Quick Fix
 
-This repository is to showcase the mobile application.
+This repository is to showcase the Quick Fix mobile application.
 
 ## Description
 
